@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.exe
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.deps.json
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.dll
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\ref\test1.dll
+C:\Users\Сергей\source\repos\test1\test1\bin\Debug\net5.0\test1.pdb
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.dll
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\ref\test1.dll
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.pdb
+C:\Users\Сергей\source\repos\test1\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache

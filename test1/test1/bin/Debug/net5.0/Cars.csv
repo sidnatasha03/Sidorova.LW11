@@ -1,0 +1,14 @@
+Id;Transport;Category;Quantity;Price
+1;"Honda CB-1300";A;2;2000
+2;Yamaha XJR-1300;A;3;3000
+3;Suzuki GSF-1200 Bandit;A;5;2500
+4;Kawasaki ZRX-1200;A;1;2700
+5;Skoda Fabia;B;3;5000
+6;Kia Rio;B;4;5500
+7;Skoda Octavia;B;5;6200
+8;Kia Ceed;B;5;6500
+9;Ford Mondeo;B;4;7000
+10;Toyota Camry;B;3;8000
+11;Hyundai H350;D;2;10000
+12;Citroen Jumper 3;D;5;10000
+13;Volkswagen Crafter 1;D;3;12000

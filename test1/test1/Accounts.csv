@@ -1,0 +1,13 @@
+Id;Name;Age;Country;Phone;Email;Order;Status_Order;Login;Password;Balance
+0;Aleksey;93;Kaluga;792111;abv;false;false;asd;asd;5000
+1;as;19;as;79;as;Suzuki GSF-1200 Bandit;False;Flex;Flex;2500
+2;aas;19;ass;79;as;Toyota Camry;False;as;as;2500
+3;admin;19;admin;7;admin;Toyota Camry;False;admin;admin;1000
+4;oneme;19;oneme;7;oneme;Kawasaki ZRX-1200;False;oneme;oneme;100
+5;Gleb;40;Rus;7;Gleb@gmail.com;Suzuki GSF-1200 Bandit;False;ban;ban;4500
+6;a;19;a;7;a;Kawasaki ZRX-1200;False;a;a;3000
+7;s;19;s;7;s;Kawasaki ZRX-1200;False;s;s;4000
+8;d;19;d;7;d;Kawasaki ZRX-1200;False;d;d;3200
+9;2;20;2;7;2;Kawasaki ZRX-1200;False;2;2;1300
+10;3;30;3;7;3;Kawasaki ZRX-1200;False;3;3;400
+11;4;40;4;7;4;Suzuki GSF-1200 Bandit;False;4;4;500

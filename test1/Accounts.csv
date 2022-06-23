@@ -1,0 +1,25 @@
+Id;Name;Age;Country;Phone;Email;Order;Status_Order;Login;Password;Balance
+0;Aleksey;93;Kaluga;792111;abv;false;false;asd;asd;5000
+1;as;19;as;79;as;Suzuki GSF-1200 Bandit;False;Flex;Flex;3000
+2;aas;19;ass;79;as;Toyota Camry;False;as;as;2500
+3;admin;19;admin;7;admin;Yamaha XJR-1300;False;admin;admin;9000
+4;oneme;19;oneme;7;oneme;Kawasaki ZRX-1200;False;oneme;oneme;100
+5;Gleb;40;Rus;7;Gleb@gmail.com;Suzuki GSF-1200 Bandit;False;ban;ban;4500
+6;a;19;a;7;a;Kawasaki ZRX-1200;False;a;a;3000
+7;s;19;s;7;s;Kawasaki ZRX-1200;False;s;s;4000
+8;d;19;d;7;d;Kawasaki ZRX-1200;False;d;d;3200
+9;2;20;2;7;2;Kia Ceed;False;2;2;1300
+10;3;30;3;7;3;Kawasaki ZRX-1200;False;3;3;400
+11;4;40;4;7;4;Suzuki GSF-1200 Bandit;False;4;4;500
+12;asss;19;asss;7;asss;Suzuki GSF-1200 Bandit;False;asss;asss;0
+13;hehe;19;rus;+7;hehe;Suzuki GSF-1200 Bandit;False;hehe;hehe;0
+14;ahah;19;ahah;+7;ahah;Suzuki GSF-1200 Bandit;False;ahah;ahah;0
+15;ahaha;19;ahaha;+7;10;Ford Mondeo;False;ahaha;ahaha;0
+16;ohoho;19;ohoho;+7;ohoho;Ford Mondeo;False;ohoho;ohoho;0
+17;5;50;5;+7;50;Ford Mondeo;False;5;5;0
+18;6;60;6;+7;6;Toyota Camry;False;6;6;0
+19;11;19;11;+7;11;Volkswagen Crafter 1;False;11;11;0
+20;22;22;22;+7;22;Ford Mondeo;False;22;22;0
+21;33;33;33;+7;33;Suzuki GSF-1200 Bandit;False;33;33;0
+22;NE;19;MALAZIYA;+71;A@A;Kia Ceed;False;OSLAEB;123_;30000
+23;9;99;r;+7;f;Volkswagen Crafter 1;False;rr;rr;0
